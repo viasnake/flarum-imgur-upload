@@ -1,0 +1,16 @@
+imgur-upload:
+  admin:
+    settings:
+      hide-markdown-image: マークダウン画像ボタンを非表示にする
+      allow-paste: 画像貼り付けによるアップロードを許可する
+      embed-type:
+        title: 埋め込みタイプ
+        preview-with-link: フルサイズ画像へのリンク付きプレビュー(1024px)
+        preview-without-link: リンク無しプレビュー
+        full-with-link: リンク付きフルサイズ画像
+        full-without-link: リンク無しのフルサイズ画像
+  forum:
+    upload: 押すか、貼り付けてアップロード
+    loading: アップロード中...
+    done: 完了!
+    error: エラー
